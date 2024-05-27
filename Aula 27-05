@@ -1,0 +1,18 @@
+<!doctype html>
+<html lang = "pt-br">
+	<head>
+		<meta charset = "utf-8">
+    <link rel="stylesheet" type="text/css" href="style.css" />
+  </head>
+  <body>
+    <header>
+      <h1> CEEMTI Baixo Guandu<h1>
+      <img src="Logo Escola.png"/>
+    </header>
+    <main>
+	  </main>
+		<footer>
+			<i>Emanuelly Dias</i>
+		</footer>
+	</body>
+<html>
