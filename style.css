@@ -1,12 +1,14 @@
+header{
+   align-itens: center;
+}
 p{
-  text-align: center;
-  font-size: 17px;
+   font-size: 17px;
 }
 footer{
-  text-align: center;
-  font-size: 18px;
+   text-align: center; 
+   font-size: 13px;
 }
 img{
-width: 45px;
-height: 45px;
+  height: 47px;
+  width: 47px;
 }
