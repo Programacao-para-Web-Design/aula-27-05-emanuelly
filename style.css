@@ -1,8 +1,12 @@
-.h1{
+p{
   text-align: center;
   font-size: 17px;
 }
-.footer{
+footer{
   text-align: center;
   font-size: 18px;
+}
+img{
+width: 45px;
+height: 45px;
 }
