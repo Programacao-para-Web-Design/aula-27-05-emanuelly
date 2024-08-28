@@ -1,14 +1,82 @@
-header{
-   align-itens: center;
+body{
+	background-color: rgb(187, 85, 2); 
 }
-p{
-   font-size: 17px;
+header{
+	background-color: rgb(170, 98, 31); 
+	display: block;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+}
+section{
+	background-color: rgb(180, 109, 50);
 }
 footer{
-   text-align: center; 
-   font-size: 13px;
+	margin-top: 10px;
+	text-align: center;
+	background-color: rgb(224, 179, 153);
 }
-img{
-  height: 47px;
-  width: 47px;
+
+a{
+	list-style-type: none;
+	color: white;
+}
+
+#img{
+	width:320px;
+	height:205px;
+	right: 150px;
+	top: 70px;
+}
+#nav{
+	background-color: rgb(201, 109, 33);
+	box-shadow: 7px 7px 9px 0px black;
+}
+main{
+	margin-top: 20px;
+	background-color: rgb(204, 110, 23); 
+	display: flex;
+	height: 50vh;
+}
+#nome{
+	font-weight: bold;	
+	font-size: 17px;
+	text-align: center;
+}
+#nome1{
+	font-size: 17px;
+	text-align: center;
+}
+#tres{
+	background-color: rgb(206, 118, 17); 
+	width: 20%;
+	height: 70%;
+	margin-left: 78%;
+}
+#meio{
+	background-color: #df6c0eb4; 
+	display: block;
+	width: 77%;
+}
+#um{
+	background-color: rgb(155, 83, 24); 
+	height: 40%;
+	margin-left: 10px;
+	width: 98%;
+}
+#dois{
+	background-color: rgb(138, 71, 9); 
+	height: 40%;
+	width: 98%;
+	margin-left: 10px;
+}
+#quatro{
+	background-color: rgb(167, 70, 5); 
+	flex-direction: column;
+	margin-left: 20px;
+	width: 20%;
+}
+#k{
+		   font-size: 25px;
+	text-align: center;
 }
